@@ -1,0 +1,6 @@
+[book]
+authors = ["Russ Weas"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CS 443 Presentations"
