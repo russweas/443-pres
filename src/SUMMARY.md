@@ -7,3 +7,4 @@
 - [Log Parser](./log-parser.md)
 - [Perceptual Hash](./phash.md)
 - [SSD Garbage Collector](./ssd-gc.md)
+- [Miscelaneous Topics](./misc.md)
